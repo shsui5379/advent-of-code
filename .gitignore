@@ -1,0 +1,9 @@
+**/data.txt
+**/*.js.map
+**/*.js
+**/.vscode
+**/input.txt
+**/*.o
+*.
+**/*.class
+node_modules
